@@ -31,3 +31,23 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+
+# Database (local)
+data/
+*.mv.db
+*.trace.db
+
+# Environment files
+.env
+.application.env
+
+# Logs
+logs/
+*.log
